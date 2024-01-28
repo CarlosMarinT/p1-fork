@@ -7,6 +7,9 @@ Un repositorio para empezar a usar [git](https://git-scm.com/) y Github
 
 [PDF](https://github.com/CarlosMarinT/p1-fork/blob/main/Pr%C3%A1ctica1Actualizada.pdf)
 
+## Entorno de desarrollo java
+[entorno.pdf]
+
 
 ## ¿Como probar en la nube?
 
