@@ -5,7 +5,7 @@ Un repositorio para empezar a usar [git](https://git-scm.com/) y Github
 
 ## Informe de la práctica PDF
 
-[PDF]
+[PDF](https://github.com/CarlosMarinT/p1-fork/blob/main/Pr%C3%A1ctica1Actualizada.pdf)
 
 
 ## ¿Como probar en la nube?
