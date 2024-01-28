@@ -1,7 +1,6 @@
 # Práctica 1
 
-![Probando subir una imagen](https://cdnsecakmi.kaltura.com/p/2206521/sp/220652100/thumbnail/entry_id/1_wpawvw8r/version/100011/width/412/height/248)
-
+![Probando subir una imagen](https://blogs.comillas.edu/acogida/wp-content/uploads/sites/17/2015/10/Marca-color-sobreimpresa-CMYK-texto-positivo.jpg)
 Un repositorio para empezar a usar [git](https://git-scm.com/) y Github
 
 ## ¿Como probar en la nube?
